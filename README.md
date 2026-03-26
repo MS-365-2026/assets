@@ -1,7 +1,7 @@
 # 🛡️ MS365 2026 Assets & Security Registry
 
-[![License: MIT](https://img.shields.io)](https://opensource.org)
-[![Maintenance](https://img.shields.io)](https://github.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org)
+[![Maintenance]([https://img.shields.io](https://camo.githubusercontent.com/cfed6dc6fddd5928206fc6563093b42c7fe0743e15681325f9f06dad017ed885/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61696e74656e616e63652d6163746976656c792d2d646576656c6f7065642d627269676874677265656e2e737667))](https://github.com)
 
 Official repository for **Microsoft 365 (2026 Edition)** asset management. This repo tracks the latest feature updates, security patches, and compliance configurations for enterprise-wide deployment.
 
